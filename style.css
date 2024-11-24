@@ -843,3 +843,8 @@ body {
 }
     
 }
+@media(max-width: 450px) {
+    .Payment {
+        background-image: url(./img/fon2.png);
+    }
+ }
