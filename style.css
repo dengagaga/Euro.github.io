@@ -580,7 +580,7 @@ body {
 
 
 .Payment {
-    background-image: url(../img/fon1.png);
+    background-image: url(./img/fon1.png);
     background-size: cover;
     background-repeat: no-repeat;
     padding-top: 90px;
