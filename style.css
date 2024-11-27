@@ -117,6 +117,9 @@ body {
 }
 .header_logo {
 }
+.logo {
+    max-width: 280px;
+}
 .header_links {
     display: flex;
     align-items: center;
@@ -837,7 +840,10 @@ body {
         font-size: 26px;
 
     }
-
+    .logo {
+        max-width: 240px;
+        width: 100%;
+    }
 .questions-text-bot {
     font-size: 22px;
 }
